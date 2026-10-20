@@ -54,12 +54,15 @@ I'm a Frontend Developer focused on building modern web applications with **Reac
   <img src="https://img.shields.io/badge/Context_API-149ECA?style=flat-square&logo=react&logoColor=white" alt="React Context API" />
 </p>
 
+
 ### Tools & API Integration
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vite" alt="Git, GitHub, Figma, Postman, Vite" />
   <img src="https://img.shields.io/badge/Axios-671DDF?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
+
 
 ---
 
