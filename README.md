@@ -77,11 +77,27 @@ I'm a Frontend Developer focused on building modern web applications with **Reac
 
 ## 🚀 Featured Projects
 
-<!-- Replace these placeholders with your best public repositories. -->
+### 1. ERP System
+A web-based ERP application built with React, focused on structured user interfaces and maintainable frontend development.
 
-- **Project One** — Add a short description of the problem it solves and the technologies used.
-- **Project Two** — Highlight an interesting feature or technical decision.
-- **Project Three** — Include a live demo if one is available.
+**Tech Stack:** React · TypeScript
+
+### 2. E-Commerce Platform
+A modern e-commerce application built with Next.js, focusing on responsive interfaces and reusable frontend components.
+
+**Tech Stack:** Next.js · TypeScript
+
+### 3. Hanafy Management Dashboard
+A professional management dashboard developed at Hanafy, covering administrative interfaces for course management, e-commerce, and salon operations.
+
+**Tech Stack:** React · TypeScript
+
+### 4. Othaim FabLab
+A freelance project for Othaim FabLab, featuring a website and a dashboard interface styled with Tailwind CSS.
+
+**Tech Stack:** React · TypeScript . Tailwind CSS
+
+🌐 [Live Website](https://othaimfablab.com/)
 
 ---
 
@@ -89,7 +105,7 @@ I'm a Frontend Developer focused on building modern web applications with **Reac
 
 - **LinkedIn:** [Mohamed Ayman](https://www.linkedin.com/in/mohamed-ayman-alhadad-ba7881283/)
 - **GitHub:** [mohamed-ayman-alhadad](https://github.com/mohamed-ayman-alhadad)
-- **Portfolio:** Add your portfolio URL here.
+- **Portfolio:** [mohamed-ayman-portfolio](https://my-portfolio-one-gold-apz4fv5i7y.vercel.app/)
 
 <div align="center">
 
